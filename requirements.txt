@@ -1,8 +1,6 @@
 future
 emoji
-httpcore-0.17.3
-httpx-0.24.1
-h11-0.14.0
+dnspython==2.4.2
 tzlocal
 lxml
 wget

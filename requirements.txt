@@ -20,7 +20,7 @@ zalgo-text
 geopy
 nltk
 psutil
-aiohttp
+aiohttp==3.8.4
 Pillow
 CurrencyConverter
 googletrans
@@ -32,7 +32,7 @@ bleach
 git+https://github.com/trentm/python-markdown2.git
 wikipedia
 telethon
-telegraph
+telegraph==2.2.0
 heroku3
 spamwatch
 alphabet_detector
@@ -51,7 +51,7 @@ youtube_search_python
 youtube_search
 asyncio
 dateparser
-pymongo
+pymongo==4.3.3
 dnspython
 secureme
 apscheduler
